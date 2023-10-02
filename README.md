@@ -7,7 +7,7 @@ This web application allows you to view the upcoming weather forecast of a speci
 # Usage
 Use the City Weather Dashboard here:
 
-
+https://stavrospana.github.io/city-weather-dashboard-final/
 
 There will be four main sections on the page: the city search UI, the search history on the right, and today's weather as well as the five day forecast in the middle.
 
