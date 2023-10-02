@@ -1,6 +1,6 @@
 ## Module 6 Weekly Challenge - City Weather Dashboard
 
-## Description
+# Description
 
 This web application allows you to view the upcoming weather forecast of a specific city and the five day forecast!
 
